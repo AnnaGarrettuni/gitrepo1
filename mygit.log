@@ -1,0 +1,42 @@
+commit c467118cf96c402bbe3b1f9efdc2c8d365fb1025
+Author: Anna Garrett <xv24067@bristol.ac.uk>
+Date:   Wed Jan 28 14:31:21 2026 +0000
+
+    Add create_folders.sh script
+
+commit a5004ce019e2963a84042a01a673a37792cd5812
+Merge: edec25b 7cb1fe6
+Author: Anna Garrett <xv24067@bristol.ac.uk>
+Date:   Mon Jan 26 15:01:34 2026 +0000
+
+    Merge branch 'develop'
+
+commit 7cb1fe6d72cd535163c6b6c3b287d349260f2311
+Author: Anna Garrett <xv24067@bristol.ac.uk>
+Date:   Mon Jan 26 14:58:24 2026 +0000
+
+    Add src folder with minimal main.cpp
+
+commit edec25b596f7d4e36efd51b84b951a020feaef4e
+Author: Anna Garrett <xv24067@bristol.ac.uk>
+Date:   Mon Jan 26 14:26:33 2026 +0000
+
+    Stop tracking notes.txt
+
+commit b56ae1cfb482d06832bf011aa5f7577202429511
+Author: Anna Garrett <xv24067@bristol.ac.uk>
+Date:   Mon Jan 19 15:44:44 2026 +0000
+
+    Correctly ignore .txt files
+
+commit 9f1edb6ead1c6bb19de1385e6c9b31de9b1e0a6c
+Author: Anna Garrett <xv24067@bristol.ac.uk>
+Date:   Mon Jan 19 15:43:58 2026 +0000
+
+    Correctly ignore all .txt files
+
+commit 493ce17887641569567c46ee7e45bf7797ae7a7e
+Author: Anna Garrett <xv24067@bristol.ac.uk>
+Date:   Mon Jan 19 15:27:22 2026 +0000
+
+    Updating to ignore all files that end with .txt
